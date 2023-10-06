@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: LEAP
+Version: 0.0.0
+Summary: Livermore AI/ML projector for computed tomography
+Author: Hyojin Kim, Kyle Champley
+Author-email: hkim@llnl.gov
+Requires-Python: >=3.6
