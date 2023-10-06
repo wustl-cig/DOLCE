@@ -1,7 +1,7 @@
 # LivermorE AI Projector for Computed Tomography (LEAP)
 This is a source copy from the official LivermorE AI Projector for Computed Tomography (LEAP), A differentiable forward and backward projectors for AI/ML-driven computed tomography applications. For most updated version, https://github.com/LLNL/LEAP/tree/main.
 
-The current version of LEAP is tested and fully compatiable with [DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction, ICCV 2023](https://github.com/wustl-cig/DOLCE).
+The current version of LEAP is tested and fully compatible with [DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction, ICCV 2023](https://github.com/wustl-cig/DOLCE).
 
 ## Installation
 To install LEAP package, use pip command: 
