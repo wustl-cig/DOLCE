@@ -9,6 +9,11 @@ Limited-Angle Computed Tomography (LACT) is a non-destructive evaluation techniq
 
 We have released [checkpoints & testing images](https://drive.google.com/drive/folders/1p6d2jdHXOI_09svJ8yw6gybDotSE2s8A?usp=sharing) used in the paper. Please extract data into the ./dataset and models into ./model_zoo after downloading. The model was tested successfully on NVIDIA V100,  RTX3090, A6000, and A100.
 
+you can also download with:
+```bash
+bash download.sh
+```
+
 ## How to setup the environment
 First install pytorch + leap (from source) using [conda](...) by typing
 
