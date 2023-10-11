@@ -18,7 +18,7 @@ bash download.sh
 First install pytorch + leap (from source) using [conda](...) by typing
 
 ```
-$ bash install_envs.sh
+bash install_envs.sh
 ```
 The LEAP source in this repository is tested and fully compatible with [DOLCE](https://github.com/wustl-cig/DOLCE). Its parent (UpToDate) version can be found in [LLNL-LEAP](https://github.com/LLNL/LEAP/tree/main).
 
@@ -29,13 +29,13 @@ To demonstrate the performance of dolce on LACT, you can run the following,
 For security check-in baggage CT (named as, COE)
 
 ```
-$ bash evaluation_securityCT.sh 
+bash evaluation_securityCT.sh 
 ```
 
 For medical CT (named as, CKC)
 
 ```
-$ bash evaluation_medicalCT.sh
+bash evaluation_medicalCT.sh
 ```
 
 The results will be stored in the ./results folder.
