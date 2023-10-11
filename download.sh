@@ -9,7 +9,7 @@ FILE_ID="1BYBZhd4IKR1cGM0qRNN125ey4Vfcd38U"
 OUTPUT_FILE_2="downloads/model512_all.pt"
 gdown --id $FILE_ID -O $OUTPUT_FILE_2
 
-FILE_ID="NtlupJlCrSqOXQfti1aHQLvrr9qN"
+FILE_ID="1MUY-NtlupJlCrSqOXQfti1aHQLvrr9qN"
 OUTPUT_FILE_2="downloads/model512_ckc.pt"
 gdown --id $FILE_ID -O $OUTPUT_FILE_2
 
