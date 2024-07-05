@@ -85,5 +85,5 @@ LLNL-CODE-854253
 
 
 **Acknowedgement**: Our work is built upon [Guided Diffusion](https://github.com/openai/guided-diffusion).
-The LEAP source code included in this repository is slightly modified. Refer to the original [LEAP](github.com/LLNL/LEAP) for more details. 
+The LEAP source code included in this repository is slightly modified. Refer to the original [LEAP](GitHub.com/LLNL/LEAP) for more details. 
 
